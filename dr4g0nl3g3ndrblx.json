@@ -1,0 +1,125 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://tr.rbxcdn.com/7fdf34000963ef1410c240437abb29c5/768/432/Image/Png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox",
+      "image": "https://tr.rbxcdn.com/92b3887f4082852ef1feb5c4835272a7/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox2",
+      "image": "https://tr.rbxcdn.com/ea6f49c583a304f454422a87ca0755c5/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox3",
+      "image": "https://tr.rbxcdn.com/057e60fbff3f2c9556a4e20aa701d2e8/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox4",
+      "image": "https://tr.rbxcdn.com/5680f475a28ebe1f00ae1a02ff41605f/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox5",
+      "image": "https://tr.rbxcdn.com/a70f5b1c05a1d340ac418f848f531c78/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox6",
+      "image": "https://tr.rbxcdn.com/bafd819155222b70ed47479931b41aaa/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox7",
+      "image": "https://tr.rbxcdn.com/67c0f0026c432970abcf3e3a70bb8f84/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox8",
+      "image": "https://tr.rbxcdn.com/787921587025eb293ba0073790ce4e85/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox9",
+      "image": "https://tr.rbxcdn.com/47c4ba7139f18dca53b7e9a33622dc78/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "Dragon Blox10",
+      "image": "https://tr.rbxcdn.com/31428340006180f9aa6dbee4485a5c4b/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/gokurblx/goku10.html"
+    }
+  ]
+}

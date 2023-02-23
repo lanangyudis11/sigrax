@@ -1,0 +1,127 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://www.ayovaksindinkeskdi.id/wp-content/uploads/2022/11/roblox-mod-apk.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox",
+      "image": "https://tr.rbxcdn.com/818c75dd465ccefdab01b511271fd387/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox2",
+      "image": "https://tr.rbxcdn.com/6f99b9e5274416a2f4fcd89fdc68b236/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox3",
+      "image": "https://tr.rbxcdn.com/acb3b1928531a3b8ac18a28d5cb1af06/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox4",
+      "image": "https://tr.rbxcdn.com/085b3e50a9dcabf4d36ab1b61929cc2c/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox5",
+      "image": "https://tr.rbxcdn.com/33330eb98ed1c460e9c275b36b90ad00/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox6",
+      "image": "https://tr.rbxcdn.com/4d3ee75a2a46ed3554b0025d240cbf55/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox7",
+      "image": "https://tr.rbxcdn.com/71b78e757fbf6df016231016760b2920/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox8",
+      "image": "https://tr.rbxcdn.com/d4d2745f27c345f2719a8795f7c2f6cc/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox9",
+      "image": "https://tr.rbxcdn.com/61658fcd14185ed438542a01c217a882/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "BendyRoblox10",
+      "image": "https://tr.rbxcdn.com/7281e604c4847a5968f016a5e4ddd387/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/bendyrblx/bendy10.html"
+    }
+	
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://i.ytimg.com/vi/pWh2a78CAG4/maxresdefault.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "Choo",
+      "image": "https://tr.rbxcdn.com/a7f4a347687ca8dcac5c66cee39506b3/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "Choo2",
+      "image": "https://tr.rbxcdn.com/ca0f2fd0c6037c895db342203c53160c/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "Choo3",
+      "image": "https://tr.rbxcdn.com/b19d1c1e73adc43b292d6c35ad5fb4cc/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "Choo4",
+      "image": "https://tr.rbxcdn.com/f13523cc6b1e23946514cc66bf1fa99b/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "Choo5",
+      "image": "https://tr.rbxcdn.com/c60b92105549847a0ab3870976da8b8b/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "Choo6",
+      "image": "https://tr.rbxcdn.com/04cef27d7b4d7f555035d4296e8082a8/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "Choo7",
+      "image": "https://tr.rbxcdn.com/3b5a72c3ca3727e3587d2202975fef73/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "Choo8",
+      "image": "https://tr.rbxcdn.com/54baece352c8b13cf2c384731ddc33c2/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "Choo9",
+      "image": "https://tr.rbxcdn.com/95cfeb28754bf3a33204acfd6475981c/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "Choo10",
+      "image": "https://tr.rbxcdn.com/b43b3c901965c732de3ecae4fe0ad31c/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/choorblx/cho10.html"
+    }
+	
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://i.ytimg.com/vi/8kiMEoHZf0s/maxresdefault.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock",
+      "image": "https://tr.rbxcdn.com/cc769c4595468b4c733e4c344f06684a/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock2",
+      "image": "https://tr.rbxcdn.com/c51783fe5df703b9c67d7606db700ac9/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock3",
+      "image": "https://tr.rbxcdn.com/327859ee2e4afcb5fb45d4de687ec8b7/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock4",
+      "image": "https://tr.rbxcdn.com/2227e744144766637295a7ad00715435/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock5",
+      "image": "https://tr.rbxcdn.com/0c8ab397aad96c74c57ed8b09a271da3/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock6",
+      "image": "https://tr.rbxcdn.com/67b0189df44a943a6ebb1b052ec97ed7/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock7",
+      "image": "https://tr.rbxcdn.com/f5b5c019293f2f6b03ee7778068cbed6/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock8",
+      "image": "https://tr.rbxcdn.com/7040e0b520024f7c56ac2ba93fa8f797/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock9",
+      "image": "https://tr.rbxcdn.com/95e4818efca51dbbb70e0979b9339531/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "Glamrock10",
+      "image": "https://tr.rbxcdn.com/4b99b7b2b899c4fc535762b0774f8c34/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/glambox/fnaf10.html"
+    }
+	
+  ]
+}

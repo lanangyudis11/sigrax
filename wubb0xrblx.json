@@ -1,0 +1,126 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://i.ytimg.com/vi/OwgZ13zpscE/maxresdefault.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox",
+      "image": "https://tr.rbxcdn.com/79617fb110a1aa0b4004fb468e6dc17f/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox2",
+      "image": "https://tr.rbxcdn.com/332698da3c07410f81d3793a012f327e/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox3",
+      "image": "https://t6.rbxcdn.com/df24feec0aae3d42d244d0fe6046d508",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox4",
+      "image": "https://tr.rbxcdn.com/d13b6bbbb2e9e756700d414bd6531908/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox5",
+      "image": "https://tr.rbxcdn.com/88043fee7362b4530770bc46966776bb/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox6",
+      "image": "https://tr.rbxcdn.com/988059d08f49d5cacf4750d14db19af0/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox7",
+      "image": "https://tr.rbxcdn.com/0985e982b6a4df4392ac430d6bf57058/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox8",
+      "image": "https://t7.rbxcdn.com/5c66ba63087a3dd4cfa7b5c4717f6065",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox9",
+      "image": "https://tr.rbxcdn.com/6dd7bf7a3586e450844d5049a9b50fc2/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "Wubbox Roblox10",
+      "image": "https://t2.rbxcdn.com/45b31d4505d514928adfca9a7271d55e",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/wubboxrblx/wubbox10.html"
+    }
+	
+  ]
+}

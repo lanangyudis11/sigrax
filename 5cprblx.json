@@ -1,0 +1,126 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://tr.rbxcdn.com/fa23f04d5e45f37cdd20e2267f4c2d47/768/432/Image/Png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "SCP",
+      "image": "https://tr.rbxcdn.com/e76ab6959c75a9f34ed8cbcf87d7b557/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "SCP2",
+      "image": "https://tr.rbxcdn.com/2ac7d8767827e73d92881a65726b527b/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "SCP3",
+      "image": "https://tr.rbxcdn.com/d72cd88ae2e88d4a7596ec492bf9953a/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "SCP4",
+      "image": "https://tr.rbxcdn.com/0e4ce1e0b3b7b8934fe369c5c51b0cf4/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "SCP5",
+      "image": "https://tr.rbxcdn.com/0cd76d0674e7b0712ac9ca71f1a452b1/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "SCP6",
+      "image": "https://tr.rbxcdn.com/ba66fce49bfbbab6cdabc31a2f758e0b/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "SCP7",
+      "image": "https://tr.rbxcdn.com/e249cb2462360724ca1447546981fa62/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "SCP8",
+      "image": "https://tr.rbxcdn.com/3f03b0f5478e7069c2d92b998bff42bc/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "SCP9",
+      "image": "https://tr.rbxcdn.com/cc0b33161f0668b97d3f0c410e6684d9/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "SCP10",
+      "image": "https://tr.rbxcdn.com/6a779afa6bc3ca3f8f1cd9a4db4770a8/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/scprblx/scp10.html"
+    }
+	
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://www.ayovaksindinkeskdi.id/wp-content/uploads/2022/11/roblox-mod-apk.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore",
+      "image": "https://tr.rbxcdn.com/a969d899a500a8a10c96970d738e468a/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore2",
+      "image": "https://tr.rbxcdn.com/f9dc3075ae4a380b93e20cdaa3583601/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore3",
+      "image": "https://tr.rbxcdn.com/7ac4b7299e9f4bdd08a64dcff64efd08/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore4",
+      "image": "https://tr.rbxcdn.com/9020fa9443fd5f6bd4aa15c2bf21ef80/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore5",
+      "image": "https://tr.rbxcdn.com/a4368ee12f40f0f1a182a8e5f28f7800/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore6",
+      "image": "https://tr.rbxcdn.com/3c48224e74c6df3052aa62fcf5c65f2f/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore7",
+      "image": "https://tr.rbxcdn.com/02b66f3e35e63f4d08c752a49c3c48df/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore8",
+      "image": "https://tr.rbxcdn.com/60fa3d812adf5e3984e584b2aa959760/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore9",
+      "image": "https://tr.rbxcdn.com/a8998afcf30f0f61a872a0d6c056a351/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "Alphabet Lore10",
+      "image": "https://tr.rbxcdn.com/47776599d6ad14441538983ea45d0413/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/alphabetrblx/rblx10.html"
+    }
+	
+  ]
+}

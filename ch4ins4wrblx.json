@@ -1,0 +1,125 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "image": "https://i.ytimg.com/vi/wzStFjwHP6E/maxresdefault.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox",
+      "image": "https://tr.rbxcdn.com/e1984e580d3bc6b7bb5810c285d8037e/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox2",
+      "image": "https://tr.rbxcdn.com/7b85b0c604edc02bc36da5df6b3f733c/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox3",
+      "image": "https://tr.rbxcdn.com/4e633c3d49d8f0cbfdc3a650e5c6c338/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox4",
+      "image": "https://tr.rbxcdn.com/52e93ad19dc3ac9960932c90415f5361/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox5",
+      "image": "https://tr.rbxcdn.com/4ca3ce1c750a16085dcdd8145e9f9949/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox6",
+      "image": "https://tr.rbxcdn.com/6c2ab944237da0fa85a7ad83406b4a2a/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox7",
+      "image": "https://tr.rbxcdn.com/d7f10afa7503fdd05d1acde51b891e47/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox8",
+      "image": "https://tr.rbxcdn.com/3226efc4ab24f6c0a20a6fc5d4c56362/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox9",
+      "image": "https://tr.rbxcdn.com/9858898c72e9a2a1f3664a4b60b668a4/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Roblox Mod",
+      "title": "Chainsaw Roblox10",
+      "image": "https://tr.rbxcdn.com/ea7486ae1b876d00321fcc7a36799134/768/432/Image/Png",
+      "description": "Mod/Addons for Roblox Mod",
+      "link": "http://gustvid.sveg.xyz/chainsawrblx/saw10.html"
+    }
+  ]
+}
